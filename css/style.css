@@ -1,0 +1,87 @@
+#tUp {
+  background-color: #006400;
+  border: 6px solid black;
+  text-align: center;
+  font-size: 20px
+}
+
+#tUp:hover {
+  background-color: #90EE90;
+}
+
+#tWiggle {
+  background-color: #1E90FF;
+  border: 6px solid black;
+  text-align: center;
+  font-size: 20px
+}
+
+#tWiggle:hover {
+  background-color: #00FFFF;
+}
+
+#tDown {
+  background-color: #FF0000;
+  border: 6px solid black;
+  text-align: center;
+  font-size: 20px
+}
+
+#tDown:hover {
+  background-color: #ff6666;
+}
+
+#tOops {
+  background-color: #FFFF00;
+  border: 6px solid black;
+  text-align: center;
+  font-size: 20px
+}
+
+#tOops:hover {
+  background-color: #ffff80;
+}
+
+.thumbsBox {
+  width: 50%;
+  height: 50%;
+}
+
+.pTop {
+  Position: absolute;
+  top: 0px;
+}
+
+.pBot {
+  Position: absolute;
+  bottom: 0px;
+}
+
+.pLeft {
+  Position: absolute;
+  left: 0px;
+}
+
+.pRight {
+  Position: absolute;
+  right: 0px;
+}
+div {
+  background-color: white;
+  border: 1px solid black;
+}
+
+#content {
+  border: 1px solid black;
+}
+
+#headerBox {
+  color: black;
+  background-color: blue;
+  margin: 20px;
+}
+
+.paraBox {
+  border: 3px solid black;
+  margin: 20px;
+}
