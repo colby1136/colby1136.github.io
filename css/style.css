@@ -83,6 +83,7 @@ box-shadow: 5px 10px #000000;
 }
 
 .NavBox {
+  border: solid 10px;
   border-radius: 10px;
   background: red;
   position: relative;
@@ -99,4 +100,24 @@ box-shadow: 5px 10px #000000;
     left: 200px -200px;
     background-color: blue;
   }
+}
+.button {
+  flex: space-evenly;
+  border-radius: 10px;
+  background: red;
+  position: relative;
+  animation: mymove 5s infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes mymove {
+  from {
+    left: 0px;
+  }
+
+  to {
+    left: 200px -200px;
+    background-color: blue;
+  }
+}
 }
