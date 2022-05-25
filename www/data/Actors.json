@@ -12,5 +12,5 @@ null,
 {"id":10,"battlerName":"ant","characterIndex":0,"characterName":"anthiny'","classId":1,"equips":[1,1,0,0,0],"faceIndex":0,"faceName":"anthony","traits":[{"code":31,"dataId":2,"value":1},{"code":31,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"anthony","nickname":"forehead","note":"","profile":""},
 {"id":11,"battlerName":"grantfight","characterIndex":0,"characterName":"grant","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"grant","traits":[{"code":33,"dataId":0,"value":100}],"initialLevel":1,"maxLevel":99,"name":"Grant","nickname":"John","note":"","profile":""},
 {"id":12,"battlerName":"will","characterIndex":0,"characterName":"willl","classId":1,"equips":[1,0,0,0,0],"faceIndex":1,"faceName":"will","traits":[],"initialLevel":1,"maxLevel":99,"name":"Will","nickname":"","note":"","profile":""},
-{"id":13,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":13,"battlerName":"attacking teacher","characterIndex":0,"characterName":"teacher","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"teacher","traits":[],"initialLevel":1,"maxLevel":99,"name":"Teacher","nickname":"","note":"","profile":"she teaches\n"}
 ]
