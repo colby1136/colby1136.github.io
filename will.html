@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Colby's Website</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/functions.js" charset="utf-8">
+  </script>
+  <style media="screen">
+    div {
+      border: 5px solid #000000;
+      padding: 5px
+    }
+
+    img.a {
+      width: 200px;
+      height: 400px;
+      object-fit: cover;
+    }
+
+    .child {
+      display: inline-block;
+
+      cursor: pointer;
+      text-align: center;
+    }
+
+    .button:hover {
+      background-color: #3e8e41
+    }
+
+    .button:active {
+      background-color: #3e8e41;
+      box-shadow: 0 5px #666;
+      transform: translateY(4px);
+      display: inline;
+      background: red;
+      position: relative;
+      animation: mymove 5s infinite;
+      animation-timing-function: linear;
+
+    }
+
+
+    @keyframes mymove {
+      from {
+        left: 0px;
+      }
+
+      to {
+        left: 200px -200px;
+        background-color: blue;
+      }
+    }
+
+    .NavBox {
+      display: flex;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+      margin: 10px;
+      border: 1px solid;
+      padding: 10px;
+      box-shadow: 5px 10px #000000;
+    }
+    }
+
+    .paraBox1 {
+      margin: 50px;
+
+    }
+
+    .paraBox {
+      border: 1px solid;
+      padding: 10px;
+      box-shadow: 5px 10px #000000;
+
+      margin: 50px;
+    }
+    img:hover {
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+    }
+  </style>
+</head>
+
+<body>
+
+
+  <div id="content">
+
+
+  </div>
+
+  <div id="headerBox">
+    <h1>Will </h1>
+  </div>
+  <div class="NavBox">
+
+    <div class="child">
+      <a href="test.html">Return to Info Tab</a>
+    </div>
+
+
+    </div>
+
+
+
+
+
+  <div class="paraBox">
+    <h2>About Will</h2>
+    <p>Will was supposed to be the smartest and strongest character, but then decided by Grant to be a simp within the game, despite getting memed on, Will is very smart and is very communicative towards his peers,
+      Will is most helpful in situations where he could easliy talk himself out of, Will also is very sneeky which allows him to steal from others without them seeing.</p>
+      <img src="img/will.png" alt="Avatar" class="image">
+  </div>
+
+
+
+
+
+
+</body>
+
+</html>
