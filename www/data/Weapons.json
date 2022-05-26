@@ -19,5 +19,5 @@ null,
 {"id":17,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"heart stopper","note":"","params":[0,0,150,0,0,0,50,0],"price":0,"wtypeId":1},
 {"id":18,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":22,"dataId":0,"value":0.5}],"iconIndex":116,"name":"Sniper","note":"","params":[0,0,500,0,0,0,0,0],"price":0,"wtypeId":0},
 {"id":19,"animationId":0,"description":"part of the divine set","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":31,"dataId":8,"value":1}],"iconIndex":100,"name":"Divine whip","note":"","params":[0,0,140,0,0,0,150,34],"price":0,"wtypeId":5},
-{"id":20,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+{"id":20,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Dev testing weapon","note":"","params":[5000,5000,500,500,500,500,500,500],"price":0,"wtypeId":2}
 ]
